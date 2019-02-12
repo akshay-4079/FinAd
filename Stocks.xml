@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Stocks>
+<stock>	<name>	20 Microns Limited	</name>	<facevalue>	5	</facevalue>	<price>	60.7	</price>	<marketcap>	2147043218	</marketcap>	<eps>	3.85	</eps>	</stock>
+<stock>	<name>	3i Infotech Limited	</name>	<facevalue>	10	</facevalue>	<price>	8.75	</price>	<marketcap>	11673830840	</marketcap>	<eps>	0.56	</eps>	</stock>
+<stock>	<name>	3M India Limited	</name>	<facevalue>	10	</facevalue>	<price>	18099.95	</price>	<marketcap>	204641663957	</marketcap>	<eps>	229.56	</eps>	</stock>
+<stock>	<name>	5Paisa Capital Limited	</name>	<facevalue>	10	</facevalue>	<price>	373.9	</price>	<marketcap>	4763119874	</marketcap>	<eps>	23.54	</eps>	</stock>
+<stock>	<name>	63 moons technologies limited	</name>	<facevalue>	2	</facevalue>	<price>	117	</price>	<marketcap>	5400428202	</marketcap>	<eps>	182.61	</eps>	</stock>
+<stock>	<name>	8K Miles Software Services Limited	</name>	<facevalue>	5	</facevalue>	<price>	863	</price>	<marketcap>	26277750215	</marketcap>	<eps>	46	</eps>	</stock>
+<stock>	<name>	A2Z Infra Engineering Limited	</name>	<facevalue>	10	</facevalue>	<price>	45.1	</price>	<marketcap>	6534127918	</marketcap>	<eps>	13.67	</eps>	</stock>
+<stock>	<name>	Aarti Drugs Limited	</name>	<facevalue>	10	</facevalue>	<price>	763.8	</price>	<marketcap>	18185316201	</marketcap>	<eps>	30.45	</eps>	</stock>
+<stock>	<name>	Aarti Industries Limited	</name>	<facevalue>	5	</facevalue>	<price>	1129.9	</price>	<marketcap>	93559008901	</marketcap>	<eps>	232	</eps>	</stock>
+<stock>	<name>	Aarvee Denims and Exports Limited	</name>	<facevalue>	10	</facevalue>	<price>	52.05	</price>	<marketcap>	1210464737	</marketcap>	<eps>	-3.86	</eps>	</stock>
+<stock>	<name>	Aban Offshore Limited	</name>	<facevalue>	2	</facevalue>	<price>	266.85	</price>	<marketcap>	15612704584	</marketcap>	<eps>	-184.7	</eps>	</stock>
+<stock>	<name>	ABB India Limited	</name>	<facevalue>	2	</facevalue>	<price>	1399.75	</price>	<marketcap>	297205118578	</marketcap>	<eps>	18.57	</eps>	</stock>
+<stock>	<name>	Abbott India Limited	</name>	<facevalue>	10	</facevalue>	<price>	5400	</price>	<marketcap>	114893726400	</marketcap>	<eps>	147.49	</eps>	</stock>
+<stock>	<name>	ACC Limited	</name>	<facevalue>	10	</facevalue>	<price>	1802.15	</price>	<marketcap>	338523561173	</marketcap>	<eps>	43.01	</eps>	</stock>
+<stock>	<name>	Accel Frontline Limited	</name>	<facevalue>	10	</facevalue>	<price>	68.75	</price>	<marketcap>	2025034756	</marketcap>	<eps>	-8.05	</eps>	</stock>
+<stock>	<name>	Accelya Kale Solutions Limited	</name>	<facevalue>	10	</facevalue>	<price>	1431.25	</price>	<marketcap>	21333748775	</marketcap>	<eps>	60.24	</eps>	</stock>
+<stock>	<name>	Action Construction Equipment Limited	</name>	<facevalue>	2	</facevalue>	<price>	168.1	</price>	<marketcap>	19766657321	</marketcap>	<eps>	3.77	</eps>	</stock>
+<stock>	<name>	Adani Enterprises Limited	</name>	<facevalue>	1	</facevalue>	<price>	201.95	</price>	<marketcap>	220866458483	</marketcap>	<eps>	7.09	</eps>	</stock>
+<stock>	<name>	Adani Ports and Special Economic Zone Limited	</name>	<facevalue>	2	</facevalue>	<price>	425.5	</price>	<marketcap>	883076644710	</marketcap>	<eps>	18.19	</eps>	</stock>
+<stock>	<name>	Adani Power Limited	</name>	<facevalue>	10	</facevalue>	<price>	46.1	</price>	<marketcap>	176086049795	</marketcap>	<eps>	-15.78	</eps>	</stock>
+<stock>	<name>	Adani Transmission Limited	</name>	<facevalue>	10	</facevalue>	<price>	218.25	</price>	<marketcap>	240543879134	</marketcap>	<eps>	3.14	</eps>	</stock>
+<stock>	<name>	ADF Foods Limited	</name>	<facevalue>	10	</facevalue>	<price>	307	</price>	<marketcap>	6520363176	</marketcap>	<eps>	7.98	</eps>	</stock>
+<stock>	<name>	Aditya Birla Capital Limited	</name>	<facevalue>	10	</facevalue>	<price>	184.95	</price>	<marketcap>	407057781958	</marketcap>	<eps>	1.93	</eps>	</stock>
+<stock>	<name>	Aditya Birla Fashion and Retail Limited	</name>	<facevalue>	10	</facevalue>	<price>	174.3	</price>	<marketcap>	135263390908	</marketcap>	<eps>	-0.27	</eps>	</stock>
+<stock>	<name>	Aditya Birla Money Limited	</name>	<facevalue>	1	</facevalue>	<price>	95.6	</price>	<marketcap>	5352360747	</marketcap>	<eps>	1.8	</eps>	</stock>
+<stock>	<name>	Ador Welding Limited	</name>	<facevalue>	10	</facevalue>	<price>	568	</price>	<marketcap>	7730887256	</marketcap>	<eps>	12.41	</eps>	</stock>
+<stock>	<name>	Advanced Enzyme Technologies Limited	</name>	<facevalue>	2	</facevalue>	<price>	313.5	</price>	<marketcap>	34990375480	</marketcap>	<eps>	6.59	</eps>	</stock>
+<stock>	<name>	Advani Hotels and Resorts (India) Limited	</name>	<facevalue>	2	</facevalue>	<price>	81	</price>	<marketcap>	5464925010	</marketcap>	<eps>	1.74	</eps>	</stock>
+<stock>	<name>	Aegis Logistics Limited	</name>	<facevalue>	1	</facevalue>	<price>	294	</price>	<marketcap>	98675004792	</marketcap>	<eps>	4.89	</eps>	</stock>
+<stock>	<name>	Agri-Tech (India) Limited	</name>	<facevalue>	10	</facevalue>	<price>	123	</price>	<marketcap>	738341940	</marketcap>	<eps>	54.81	</eps>	</stock>
+<stock>	<name>	Agro Tech Foods Limited	</name>	<facevalue>	10	</facevalue>	<price>	740	</price>	<marketcap>	17942843640	</marketcap>	<eps>	10.31	</eps>	</stock>
+<stock>	<name>	Ahluwalia Contracts (India) Limited	</name>	<facevalue>	2	</facevalue>	<price>	385.05	</price>	<marketcap>	25710027186	</marketcap>	<eps>	13.03	</eps>	</stock>
+<stock>	<name>	AIA Engineering Limited	</name>	<facevalue>	2	</facevalue>	<price>	1609.75	</price>	<marketcap>	154003367530	</marketcap>	<eps>	43.51	</eps>	</stock>
+<stock>	<name>	Ajanta Pharma Limited	</name>	<facevalue>	2	</facevalue>	<price>	1515	</price>	<marketcap>	133240436745	</marketcap>	<eps>	54.9	</eps>	</stock>
+<stock>	<name>	Ajmera Realty and Infra India Limited	</name>	<facevalue>	10	</facevalue>	<price>	348	</price>	<marketcap>	12405178968	</marketcap>	<eps>	21.47	</eps>	</stock>
+<stock>	<name>	AksharChem India Limited	</name>	<facevalue>	10	</facevalue>	<price>	769.5	</price>	<marketcap>	6316872440	</marketcap>	<eps>	71	</eps>	</stock>
+<stock>	<name>	Akzo Nobel India Limited	</name>	<facevalue>	10	</facevalue>	<price>	1935.05	</price>	<marketcap>	90402902743	</marketcap>	<eps>	45.91	</eps>	</stock>
+<stock>	<name>	Alankit Limited	</name>	<facevalue>	1	</facevalue>	<price>	80.3	</price>	<marketcap>	11479540845	</marketcap>	<eps>	-545	</eps>	</stock>
+<stock>	<name>	Albert David Limited	</name>	<facevalue>	10	</facevalue>	<price>	455	</price>	<marketcap>	2595502000	</marketcap>	<eps>	5.73	</eps>	</stock>
+<stock>	<name>	Alembic Limited	</name>	<facevalue>	2	</facevalue>	<price>	60.5	</price>	<marketcap>	16077879840	</marketcap>	<eps>	-43	</eps>	</stock>
+<stock>	<name>	Alembic Pharmaceuticals Limited	</name>	<facevalue>	2	</facevalue>	<price>	566	</price>	<marketcap>	106623792028	</marketcap>	<eps>	19.52	</eps>	</stock>
+<stock>	<name>	Alicon Castalloy Limited	</name>	<facevalue>	5	</facevalue>	<price>	721	</price>	<marketcap>	9690320752	</marketcap>	<eps>	23.31	</eps>	</stock>
+<stock>	<name>	Alkali Metals Limited	</name>	<facevalue>	10	</facevalue>	<price>	91	</price>	<marketcap>	918532979	</marketcap>	<eps>	0.5	</eps>	</stock>
+<stock>	<name>	Alkem Laboratories Limited	</name>	<facevalue>	2	</facevalue>	<price>	2283	</price>	<marketcap>	273841882146	</marketcap>	<eps>	63.79	</eps>	</stock>
+<stock>	<name>	Alkyl Amines Chemicals Limited	</name>	<facevalue>	5	</facevalue>	<price>	715	</price>	<marketcap>	14648505300	</marketcap>	<eps>	-5	</eps>	</stock>
+<stock>	<name>	Allahabad Bank	</name>	<facevalue>	10	</facevalue>	<price>	72.5	</price>	<marketcap>	58213424992	</marketcap>	<eps>	43	</eps>	</stock>
+<stock>	<name>	Allcargo Logistics Limited	</name>	<facevalue>	2	</facevalue>	<price>	223	</price>	<marketcap>	54852519998	</marketcap>	<eps>	9.36	</eps>	</stock>
+<stock>	<name>	Allsec Technologies Limited	</name>	<facevalue>	10	</facevalue>	<price>	445.3	</price>	<marketcap>	6797089294	</marketcap>	<eps>	42.43	</eps>	</stock>
+<stock>	<name>	Alpa Laboratories Limited	</name>	<facevalue>	10	</facevalue>	<price>	47.4	</price>	<marketcap>	991187025	</marketcap>	<eps>	3.25	</eps>	</stock>
+<stock>	<name>	Alphageo (India) Limited	</name>	<facevalue>	10	</facevalue>	<price>	1010.7	</price>	<marketcap>	6429209329	</marketcap>	<eps>	97.44	</eps>	</stock>
+<stock>	<name>	Amara Raja Batteries Limited	</name>	<facevalue>	1	</facevalue>	<price>	862.25	</price>	<marketcap>	147154558038	</marketcap>	<eps>	25.68	</eps>	</stock>
+<stock>	<name>	Ambika Cotton Mills Limited	</name>	<facevalue>	10	</facevalue>	<price>	1660	</price>	<marketcap>	9603893480	</marketcap>	<eps>	99.95	</eps>	</stock>
+<stock>	<name>	Ambuja Cements Limited	</name>	<facevalue>	2	</facevalue>	<price>	271.9	</price>	<marketcap>	540677288688	</marketcap>	<eps>	6.61	</eps>	</stock>
+<stock>	<name>	AMD Industries Limited	</name>	<facevalue>	10	</facevalue>	<price>	46.35	</price>	<marketcap>	884557832	</marketcap>	<eps>	-0.65	</eps>	</stock>
+<stock>	<name>	Amrutanjan Health Care Limited	</name>	<facevalue>	2	</facevalue>	<price>	626.9	</price>	<marketcap>	9187433631	</marketcap>	<eps>	23	</eps>	</stock>
+<stock>	<name>	Anant Raj Limited	</name>	<facevalue>	2	</facevalue>	<price>	80.75	</price>	<marketcap>	23859055454	</marketcap>	<eps>	2.04	</eps>	</stock>
+<stock>	<name>	Andhra Bank	</name>	<facevalue>	10	</facevalue>	<price>	57.75	</price>	<marketcap>	50490939230	</marketcap>	<eps>	11.13	</eps>	</stock>
+<stock>	<name>	Andhra Cements Limited	</name>	<facevalue>	10	</facevalue>	<price>	15.15	</price>	<marketcap>	4446835660	</marketcap>	<eps>	-2.39	</eps>	</stock>
+<stock>	<name>	Anik Industries Limited	</name>	<facevalue>	10	</facevalue>	<price>	47.05	</price>	<marketcap>	1298878323	</marketcap>	<eps>	8.93	</eps>	</stock>
+<stock>	<name>	Anjani Portland Cement Limited	</name>	<facevalue>	10	</facevalue>	<price>	255	</price>	<marketcap>	6410218815	</marketcap>	<eps>	14.86	</eps>	</stock>
+<stock>	<name>	Ansal Housing and Construction Limited	</name>	<facevalue>	10	</facevalue>	<price>	32.8	</price>	<marketcap>	1968671993	</marketcap>	<eps>	22	</eps>	</stock>
+<stock>	<name>	Ansal Properties and Infrastructure Limited	</name>	<facevalue>	5	</facevalue>	<price>	32.95	</price>	<marketcap>	5186490751	</marketcap>	<eps>	-4.81	</eps>	</stock>
+<stock>	<name>	Apar Industries Limited	</name>	<facevalue>	10	</facevalue>	<price>	851	</price>	<marketcap>	32538026699	</marketcap>	<eps>	21	</eps>	</stock>
+<stock>	<name>	Apcotex Industries Limited	</name>	<facevalue>	5	</facevalue>	<price>	478.45	</price>	<marketcap>	9905809436	</marketcap>	<eps>	10.8	</eps>	</stock>
+<stock>	<name>	Apex Frozen Foods Limited	</name>	<facevalue>	10	</facevalue>	<price>	774.5	</price>	<marketcap>	24273420944	</marketcap>	<eps>	23	</eps>	</stock>
+<stock>	<name>	APL Apollo Tubes Limited	</name>	<facevalue>	10	</facevalue>	<price>	2186.85	</price>	<marketcap>	51742793365	</marketcap>	<eps>	61.47	</eps>	</stock>
+<stock>	<name>	Apollo Hospitals Enterprise Limited	</name>	<facevalue>	5	</facevalue>	<price>	1172.6	</price>	<marketcap>	162493664267	</marketcap>	<eps>	43	</eps>	</stock>
+<stock>	<name>	Apollo Sindoori Hotels Limited	</name>	<facevalue>	10	</facevalue>	<price>	1500	</price>	<marketcap>	1957089000	</marketcap>	<eps>	7.45	</eps>	</stock>
+<stock>	<name>	Apollo Tyres Limited	</name>	<facevalue>	1	</facevalue>	<price>	279.5	</price>	<marketcap>	160252715512	</marketcap>	<eps>	14.77	</eps>	</stock>
+<stock>	<name>	Aptech Limited	</name>	<facevalue>	10	</facevalue>	<price>	371	</price>	<marketcap>	14723986816	</marketcap>	<eps>	8.44	</eps>	</stock>
+<stock>	<name>	Archidply Industries Limited	</name>	<facevalue>	10	</facevalue>	<price>	114.1	</price>	<marketcap>	2519805018	</marketcap>	<eps>	3.3	</eps>	</stock>
+<stock>	<name>	Archies Limited	</name>	<facevalue>	2	</facevalue>	<price>	43.7	</price>	<marketcap>	1476229464	</marketcap>	<eps>	-1.62	</eps>	</stock>
+<stock>	<name>	Arcotech Limited	</name>	<facevalue>	2	</facevalue>	<price>	57.4	</price>	<marketcap>	6047981870	</marketcap>	<eps>	2.08	</eps>	</stock>
+<stock>	<name>	Arihant Superstructures Limited	</name>	<facevalue>	10	</facevalue>	<price>	169.9	</price>	<marketcap>	7007107974	</marketcap>	<eps>	7.95	</eps>	</stock>
+<stock>	<name>	Aro Granite Industries Limited	</name>	<facevalue>	10	</facevalue>	<price>	84.6	</price>	<marketcap>	1307957430	</marketcap>	<eps>	3.27	</eps>	</stock>
+<stock>	<name>	Arrow Greentech Limited	</name>	<facevalue>	10	</facevalue>	<price>	533.2	</price>	<marketcap>	6313336616	</marketcap>	<eps>	22.58	</eps>	</stock>
+<stock>	<name>	Arrow Textiles Limited	</name>	<facevalue>	10	</facevalue>	<price>	47.3	</price>	<marketcap>	896007197	</marketcap>	<eps>	1.14	</eps>	</stock>
+<stock>	<name>	Arshiya Limited	</name>	<facevalue>	2	</facevalue>	<price>	104.15	</price>	<marketcap>	23326783917	</marketcap>	<eps>	-24.67	</eps>	</stock>
+<stock>	<name>	Artemis Global Life Sciences Limited	</name>	<facevalue>	2	</facevalue>	<price>	122.45	</price>	<marketcap>	8108114100	</marketcap>	<eps>	0	</eps>	</stock>
+<stock>	<name>	Arvind Limited	</name>	<facevalue>	10	</facevalue>	<price>	472.05	</price>	<marketcap>	122185252207	</marketcap>	<eps>	11.5	</eps>	</stock>
+<stock>	<name>	Arvind SmartSpaces Limited	</name>	<facevalue>	10	</facevalue>	<price>	207.4	</price>	<marketcap>	6624836558	</marketcap>	<eps>	8.99	</eps>	</stock>
+<stock>	<name>	Asahi India Glass Limited	</name>	<facevalue>	1	</facevalue>	<price>	385	</price>	<marketcap>	94125812550	</marketcap>	<eps>	6.21	</eps>	</stock>
+<stock>	<name>	Asahi Songwon Colors Limited	</name>	<facevalue>	10	</facevalue>	<price>	397.75	</price>	<marketcap>	4901015042	</marketcap>	<eps>	22.28	</eps>	</stock>
+<stock>	<name>	Ashapura Intimates Fashion Limited	</name>	<facevalue>	10	</facevalue>	<price>	451.5	</price>	<marketcap>	9012021270	</marketcap>	<eps>	4.87	</eps>	</stock>
+<stock>	<name>	Ashapura Minechem Limited	</name>	<facevalue>	2	</facevalue>	<price>	111.6	</price>	<marketcap>	9780348549	</marketcap>	<eps>	-5.62	</eps>	</stock>
+<stock>	<name>	Ashiana Housing Limited	</name>	<facevalue>	2	</facevalue>	<price>	186.5	</price>	<marketcap>	19078565250	</marketcap>	<eps>	7.8	</eps>	</stock>
+<stock>	<name>	Ashima Limited	</name>	<facevalue>	10	</facevalue>	<price>	36.65	</price>	<marketcap>	4722014894	</marketcap>	<eps>	7.37	</eps>	</stock>
+<stock>	<name>	Ashok Leyland Limited	</name>	<facevalue>	1	</facevalue>	<price>	127.1	</price>	<marketcap>	372749019810	</marketcap>	<eps>	-0.63	</eps>	</stock>
+<stock>	<name>	Ashoka Buildcon Limited	</name>	<facevalue>	5	</facevalue>	<price>	244.2	</price>	<marketcap>	45814192685	</marketcap>	<eps>	-4.78	</eps>	</stock>
+<stock>	<name>	Asian Granito India Limited	</name>	<facevalue>	10	</facevalue>	<price>	594.9	</price>	<marketcap>	17905109377	</marketcap>	<eps>	14.59	</eps>	</stock>
+<stock>	<name>	Asian Hotels (East) Limited	</name>	<facevalue>	10	</facevalue>	<price>	321	</price>	<marketcap>	3722860416	</marketcap>	<eps>	21	</eps>	</stock>
+<stock>	<name>	Asian Hotels (North) Limited	</name>	<facevalue>	10	</facevalue>	<price>	226.5	</price>	<marketcap>	4357199752	</marketcap>	<eps>	58.06	</eps>	</stock>
+<stock>	<name>	Asian Paints Limited	</name>	<facevalue>	1	</facevalue>	<price>	1186	</price>	<marketcap>	1138610743010	</marketcap>	<eps>	19.22	</eps>	</stock>
+<stock>	<name>	Aspinwall and Company Limited	</name>	<facevalue>	10	</facevalue>	<price>	525	</price>	<marketcap>	4115382075	</marketcap>	<eps>	32	</eps>	</stock>
+<stock>	<name>	Astec LifeSciences Limited	</name>	<facevalue>	10	</facevalue>	<price>	617	</price>	<marketcap>	12084789673	</marketcap>	<eps>	7.55	</eps>	</stock>
+<stock>	<name>	Astra Microwave Products Limited	</name>	<facevalue>	2	</facevalue>	<price>	118.5	</price>	<marketcap>	10229411656	</marketcap>	<eps>	7.67	</eps>	</stock>
+<stock>	<name>	Astral Poly Technik Limited	</name>	<facevalue>	1	</facevalue>	<price>	842.5	</price>	<marketcap>	101415264342	</marketcap>	<eps>	12.66	</eps>	</stock>
+<stock>	<name>	AstraZeneca Pharma India Limited	</name>	<facevalue>	2	</facevalue>	<price>	1166.4	</price>	<marketcap>	29288421253	</marketcap>	<eps>	18.51	</eps>	</stock>
+<stock>	<name>	Atlanta Limited	</name>	<facevalue>	2	</facevalue>	<price>	121.45	</price>	<marketcap>	9942332148	</marketcap>	<eps>	4.96	</eps>	</stock>
+<stock>	<name>	Atul Auto Limited	</name>	<facevalue>	5	</facevalue>	<price>	448.25	</price>	<marketcap>	9857801041	</marketcap>	<eps>	19.96	</eps>	</stock>
+<stock>	<name>	Atul Limited	</name>	<facevalue>	10	</facevalue>	<price>	2965	</price>	<marketcap>	88143134550	</marketcap>	<eps>	32	</eps>	</stock>
+<stock>	<name>	AU Small Finance Bank Limited	</name>	<facevalue>	10	</facevalue>	<price>	709.55	</price>	<marketcap>	201396761265	</marketcap>	<eps>	10	</eps>	</stock>
+<stock>	<name>	Aurionpro Solutions Limited	</name>	<facevalue>	10	</facevalue>	<price>	236	</price>	<marketcap>	5457738360	</marketcap>	<eps>	15.69	</eps>	</stock>
+<stock>	<name>	Aurobindo Pharma Limited	</name>	<facevalue>	1	</facevalue>	<price>	674.9	</price>	<marketcap>	395206623369	</marketcap>	<eps>	41.17	</eps>	</stock>
+<stock>	<name>	Ausom Enterprise Limited	</name>	<facevalue>	10	</facevalue>	<price>	72	</price>	<marketcap>	984122496	</marketcap>	<eps>	4	</eps>	</stock>
+<stock>	<name>	Autolite (India) Limited	</name>	<facevalue>	10	</facevalue>	<price>	77.5	</price>	<marketcap>	868188402	</marketcap>	<eps>	0.57	</eps>	</stock>
+<stock>	<name>	Automotive Axles Limited	</name>	<facevalue>	10	</facevalue>	<price>	1704	</price>	<marketcap>	25982886792	</marketcap>	<eps>	40.46	</eps>	</stock>
+<stock>	<name>	Automotive Stampings and Assemblies Limited	</name>	<facevalue>	10	</facevalue>	<price>	111.55	</price>	<marketcap>	1772807531	</marketcap>	<eps>	-13.32	</eps>	</stock>
+<stock>	<name>	Avadh Sugar and Energy Limited	</name>	<facevalue>	10	</facevalue>	<price>	898	</price>	<marketcap>	9001692088	</marketcap>	<eps>	34	</eps>	</stock>
+<stock>	<name>	Avanti Feeds Limited	</name>	<facevalue>	2	</facevalue>	<price>	2579.8	</price>	<marketcap>	117129167913	</marketcap>	<eps>	92.68	</eps>	</stock>
+<stock>	<name>	Avenue Supermarts Limited	</name>	<facevalue>	10	</facevalue>	<price>	1247	</price>	<marketcap>	780193197851	</marketcap>	<eps>	8.48	</eps>	</stock>
+<stock>	<name>	AVT Natural Products Limited	</name>	<facevalue>	1	</facevalue>	<price>	56	</price>	<marketcap>	8573385968	</marketcap>	<eps>	12	</eps>	</stock>
+<stock>	<name>	Axis Bank Limited	</name>	<facevalue>	2	</facevalue>	<price>	559.5	</price>	<marketcap>	1437689851046	</marketcap>	<eps>	6.11	</eps>	</stock>
+<stock>	<name>	AXISCADES Engineering Technologies Limited	</name>	<facevalue>	5	</facevalue>	<price>	212.45	</price>	<marketcap>	8055221367	</marketcap>	<eps>	1.12	</eps>	</stock>
+<stock>	<name>	AYM Syntex Limited	</name>	<facevalue>	10	</facevalue>	<price>	70	</price>	<marketcap>	2740966340	</marketcap>	<eps>	3.97	</eps>	</stock>
+<stock>	<name>	B. L. Kashyap and Sons Limited	</name>	<facevalue>	1	</facevalue>	<price>	60	</price>	<marketcap>	12947301540	</marketcap>	<eps>	5.56	</eps>	</stock>
+<stock>	<name>	Bafna Pharmaceuticals Limited	</name>	<facevalue>	10	</facevalue>	<price>	28.05	</price>	<marketcap>	522367310	</marketcap>	<eps>	1	</eps>	</stock>
+<stock>	<name>	Bajaj Auto Limited	</name>	<facevalue>	10	</facevalue>	<price>	3193	</price>	<marketcap>	923564464046	</marketcap>	<eps>	133.72	</eps>	</stock>
+<stock>	<name>	Bajaj Corp Limited	</name>	<facevalue>	1	</facevalue>	<price>	504.1	</price>	<marketcap>	74541202370	</marketcap>	<eps>	8.14	</eps>	</stock>
+<stock>	<name>	Bajaj Electricals Limited	</name>	<facevalue>	2	</facevalue>	<price>	552.45	</price>	<marketcap>	56348636135	</marketcap>	<eps>	10.67	</eps>	</stock>
+<stock>	<name>	Bajaj Finance Limited	</name>	<facevalue>	2	</facevalue>	<price>	1780.9	</price>	<marketcap>	1032108310254	</marketcap>	<eps>	17.77	</eps>	</stock>
+<stock>	<name>	Bajaj Finserv Limited	</name>	<facevalue>	5	</facevalue>	<price>	5138.5	</price>	<marketcap>	818516140634	</marketcap>	<eps>	154.34	</eps>	</stock>
+<stock>	<name>	Bajaj Hindusthan Sugar Limited	</name>	<facevalue>	1	</facevalue>	<price>	17.65	</price>	<marketcap>	19835846171	</marketcap>	<eps>	0.12	</eps>	</stock>
+<stock>	<name>	Bajaj Holdings and Investment Limited	</name>	<facevalue>	10	</facevalue>	<price>	2837	</price>	<marketcap>	315868683423	</marketcap>	<eps>	240.75	</eps>	</stock>
+<stock>	<name>	Bal Pharma Limited	</name>	<facevalue>	10	</facevalue>	<price>	114.8	</price>	<marketcap>	1635860093	</marketcap>	<eps>	1.73	</eps>	</stock>
+<stock>	<name>	Balaji Amines Limited	</name>	<facevalue>	2	</facevalue>	<price>	727	</price>	<marketcap>	23374154313	</marketcap>	<eps>	17.78	</eps>	</stock>
+<stock>	<name>	Balaji Telefilms Limited	</name>	<facevalue>	2	</facevalue>	<price>	161.7	</price>	<marketcap>	16347520258	</marketcap>	<eps>	-4.24	</eps>	</stock>
+<stock>	<name>	Balkrishna Industries Limited	</name>	<facevalue>	2	</facevalue>	<price>	1155.9	</price>	<marketcap>	223645961802	</marketcap>	<eps>	4.43	</eps>	</stock>
+<stock>	<name>	Ballarpur Industries Limited	</name>	<facevalue>	2	</facevalue>	<price>	18.05	</price>	<marketcap>	23409635978	</marketcap>	<eps>	-19.62	</eps>	</stock>
+<stock>	<name>	Balmer Lawrie and Company Limited	</name>	<facevalue>	10	</facevalue>	<price>	265.5	</price>	<marketcap>	30356048966	</marketcap>	<eps>	34	</eps>	</stock>
+<stock>	<name>	Balrampur Chini Mills Limited	</name>	<facevalue>	1	</facevalue>	<price>	141.5	</price>	<marketcap>	33210286022	</marketcap>	<eps>	-1.91	</eps>	</stock>
+<stock>	<name>	Banco Products (I) Limited	</name>	<facevalue>	2	</facevalue>	<price>	266.3	</price>	<marketcap>	19045416421	</marketcap>	<eps>	12.44	</eps>	</stock>
+<stock>	<name>	Bang Overseas Limited	</name>	<facevalue>	10	</facevalue>	<price>	42.1	</price>	<marketcap>	566729172	</marketcap>	<eps>	0.08	</eps>	</stock>
+<stock>	<name>	Bank of Baroda	</name>	<facevalue>	2	</facevalue>	<price>	163.1	</price>	<marketcap>	376380497055	</marketcap>	<eps>	6.12	</eps>	</stock>
+<stock>	<name>	Bank of India	</name>	<facevalue>	10	</facevalue>	<price>	166	</price>	<marketcap>	196346357744	</marketcap>	<eps>	18.95	</eps>	</stock>
+<stock>	<name>	Bank of Maharashtra	</name>	<facevalue>	10	</facevalue>	<price>	22.45	</price>	<marketcap>	28285481725	</marketcap>	<eps>	-32	</eps>	</stock>
+<stock>	<name>	Bannari Amman Spinning Mills Limited	</name>	<facevalue>	10	</facevalue>	<price>	355	</price>	<marketcap>	5592765850	</marketcap>	<eps>	12.4	</eps>	</stock>
+<stock>	<name>	Bannari Amman Sugars Limited	</name>	<facevalue>	10	</facevalue>	<price>	2294	</price>	<marketcap>	28787729454	</marketcap>	<eps>	107.44	</eps>	</stock>
+<stock>	<name>	Banswara Syntex Limited	</name>	<facevalue>	10	</facevalue>	<price>	141.75	</price>	<marketcap>	2432158407	</marketcap>	<eps>	16.16	</eps>	</stock>
+<stock>	<name>	BASF India Limited	</name>	<facevalue>	10	</facevalue>	<price>	2235.15	</price>	<marketcap>	96273952374	</marketcap>	<eps>	39.05	</eps>	</stock>
+<stock>	<name>	Bata India Limited	</name>	<facevalue>	5	</facevalue>	<price>	749.9	</price>	<marketcap>	96241066030	</marketcap>	<eps>	123	</eps>	</stock>
+<stock>	<name>	Bayer Cropscience Limited	</name>	<facevalue>	10	</facevalue>	<price>	4749	</price>	<marketcap>	162053380065	</marketcap>	<eps>	87.36	</eps>	</stock>
+<stock>	<name>	Beardsell Limited	</name>	<facevalue>	2	</facevalue>	<price>	69.9	</price>	<marketcap>	1969789103	</marketcap>	<eps>	23	</eps>	</stock>
+<stock>	<name>	Bedmutha Industries Limited	</name>	<facevalue>	10	</facevalue>	<price>	28.75	</price>	<marketcap>	705283874	</marketcap>	<eps>	-21.33	</eps>	</stock>
+<stock>	<name>	BEML Limited	</name>	<facevalue>	10	</facevalue>	<price>	1556	</price>	<marketcap>	64883728024	</marketcap>	<eps>	64.82	</eps>	</stock>
+<stock>	<name>	Berger Paints (I) Limited	</name>	<facevalue>	1	</facevalue>	<price>	267.5	</price>	<marketcap>	259787415925	</marketcap>	<eps>	4.52	</eps>	</stock>
+<stock>	<name>	BF Investment Limited	</name>	<facevalue>	5	</facevalue>	<price>	397.25	</price>	<marketcap>	15041709172	</marketcap>	<eps>	35.1	</eps>	</stock>
+<stock>	<name>	BF Utilities Limited	</name>	<facevalue>	5	</facevalue>	<price>	581.7	</price>	<marketcap>	21964890663	</marketcap>	<eps>	34	</eps>	</stock>
+<stock>	<name>	BGR Energy Systems Limited	</name>	<facevalue>	10	</facevalue>	<price>	148.4	</price>	<marketcap>	10697296918	</marketcap>	<eps>	43	</eps>	</stock>
+<stock>	<name>	Bhageria Industries Limited	</name>	<facevalue>	5	</facevalue>	<price>	314.55	</price>	<marketcap>	5029752130	</marketcap>	<eps>	18.81	</eps>	</stock>
+<stock>	<name>	Bhagyanagar India Limited	</name>	<facevalue>	2	</facevalue>	<price>	48.6	</price>	<marketcap>	1567496917	</marketcap>	<eps>	14.02	</eps>	</stock>
+<stock>	<name>	Bhagyanagar Properties Limited	</name>	<facevalue>	2	</facevalue>	<price>	25.15	</price>	<marketcap>	798484446	</marketcap>	<eps>	4	</eps>	</stock>
+<stock>	<name>	Bhansali Engineering Polymers Limited	</name>	<facevalue>	1	</facevalue>	<price>	204.5	</price>	<marketcap>	33903059698	</marketcap>	<eps>	2.09	</eps>	</stock>
+<stock>	<name>	Bharat Bijlee Limited	</name>	<facevalue>	10	</facevalue>	<price>	1429	</price>	<marketcap>	8093648795	</marketcap>	<eps>	30.1	</eps>	</stock>
+<stock>	<name>	Bharat Electronics Limited	</name>	<facevalue>	1	</facevalue>	<price>	179.45	</price>	<marketcap>	441027817039	</marketcap>	<eps>	1.72	</eps>	</stock>
+<stock>	<name>	Bharat Financial Inclusion Limited	</name>	<facevalue>	10	</facevalue>	<price>	1031	</price>	<marketcap>	143252416658	</marketcap>	<eps>	-1.56	</eps>	</stock>
+<stock>	<name>	Bharat Forge Limited	</name>	<facevalue>	2	</facevalue>	<price>	730.6	</price>	<marketcap>	341791923889	</marketcap>	<eps>	1.24	</eps>	</stock>
+<stock>	<name>	Bharat Gears Limited	</name>	<facevalue>	10	</facevalue>	<price>	216.7	</price>	<marketcap>	1677953367	</marketcap>	<eps>	3.97	</eps>	</stock>
+<stock>	<name>	Bharat Heavy Electricals Limited	</name>	<facevalue>	2	</facevalue>	<price>	103.55	</price>	<marketcap>	379985514650	</marketcap>	<eps>	8.49	</eps>	</stock>
+<stock>	<name>	Bharat Petroleum Corporation Limited	</name>	<facevalue>	10	</facevalue>	<price>	491.55	</price>	<marketcap>	1066510855104	</marketcap>	<eps>	2.92	</eps>	</stock>
+<stock>	<name>	Bharat Rasayan Limited	</name>	<facevalue>	10	</facevalue>	<price>	4790	</price>	<marketcap>	20301231870	</marketcap>	<eps>	148.96	</eps>	</stock>
+<stock>	<name>	Bharat Road Network Limited	</name>	<facevalue>	10	</facevalue>	<price>	185.05	</price>	<marketcap>	1552239581	</marketcap>	<eps>	12	</eps>	</stock>
+<stock>	<name>	Bharat Wire Ropes Limited	</name>	<facevalue>	10	</facevalue>	<price>	157.1	</price>	<marketcap>	7107530416	</marketcap>	<eps>	0.53	</eps>	</stock>
+<stock>	<name>	Bharti Airtel Limited	</name>	<facevalue>	5	</facevalue>	<price>	515.9	</price>	<marketcap>	2057416364678	</marketcap>	<eps>	3.98	</eps>	</stock>
+<stock>	<name>	Bharti Infratel Limited	</name>	<facevalue>	10	</facevalue>	<price>	370.35	</price>	<marketcap>	684906374180	</marketcap>	<eps>	13.59	</eps>	</stock>
+<stock>	<name>	Bhartiya International Limited	</name>	<facevalue>	10	</facevalue>	<price>	532	</price>	<marketcap>	6496763252	</marketcap>	<eps>	21.53	</eps>	</stock>
+<stock>	<name>	Bhushan Steel Limited	</name>	<facevalue>	2	</facevalue>	<price>	71.55	</price>	<marketcap>	16251410274	</marketcap>	<eps>	19.71	</eps>	</stock>
+<stock>	<name>	Bigbloc Construction Limited	</name>	<facevalue>	10	</facevalue>	<price>	148.65	</price>	<marketcap>	2108031280	</marketcap>	<eps>	2.24	</eps>	</stock>
+<stock>	<name>	Bilpower Limited	</name>	<facevalue>	10	</facevalue>	<price>	1.85	</price>	<marketcap>	38852961	</marketcap>	<eps>	-56.03	</eps>	</stock>
+<stock>	<name>	Biocon Limited	</name>	<facevalue>	5	</facevalue>	<price>	545.25	</price>	<marketcap>	327269988806	</marketcap>	<eps>	7.55	</eps>	</stock>
+<stock>	<name>	Birla Corporation Limited	</name>	<facevalue>	10	</facevalue>	<price>	1210	</price>	<marketcap>	93895111860	</marketcap>	<eps>	13.54	</eps>	</stock>
+<stock>	<name>	Bkm Industries Limited	</name>	<facevalue>	1	</facevalue>	<price>	41.1	</price>	<marketcap>	2711405246	</marketcap>	<eps>	4.25	</eps>	</stock>
+<stock>	<name>	Bliss GVS Pharma Limited	</name>	<facevalue>	1	</facevalue>	<price>	203.6	</price>	<marketcap>	21102139531	</marketcap>	<eps>	13.47	</eps>	</stock>
+<stock>	<name>	BLS International Services Limited	</name>	<facevalue>	1	</facevalue>	<price>	272	</price>	<marketcap>	28001477104	</marketcap>	<eps>	8.74	</eps>	</stock>
+<stock>	<name>	Blue Blends (I) Limited	</name>	<facevalue>	10	</facevalue>	<price>	39.4	</price>	<marketcap>	810330100	</marketcap>	<eps>	2.82	</eps>	</stock>
+<stock>	<name>	Blue Coast Hotels Limited	</name>	<facevalue>	10	</facevalue>	<price>	131.2	</price>	<marketcap>	1680654643	</marketcap>	<eps>	12	</eps>	</stock>
+<stock>	<name>	Blue Dart Express Limited	</name>	<facevalue>	10	</facevalue>	<price>	4685	</price>	<marketcap>	110777326295	</marketcap>	<eps>	11	</eps>	</stock>
+<stock>	<name>	Blue Star Limited	</name>	<facevalue>	2	</facevalue>	<price>	798	</price>	<marketcap>	76859833638	</marketcap>	<eps>	13.6	</eps>	</stock>
+<stock>	<name>	Bodal Chemicals Limited	</name>	<facevalue>	2	</facevalue>	<price>	172	</price>	<marketcap>	21042027124	</marketcap>	<eps>	-2.88	</eps>	</stock>
+<stock>	<name>	Bombay Burmah Trading Corporation Limited	</name>	<facevalue>	2	</facevalue>	<price>	1729.45	</price>	<marketcap>	119960635969	</marketcap>	<eps>	-32	</eps>	</stock>
+<stock>	<name>	Bombay Dyeing and Mfg Company Limited	</name>	<facevalue>	2	</facevalue>	<price>	284.5	</price>	<marketcap>	58881082179	</marketcap>	<eps>	0.99	</eps>	</stock>
+<stock>	<name>	Bombay Rayon Fashions Limited	</name>	<facevalue>	10	</facevalue>	<price>	103.6	</price>	<marketcap>	30890040035	</marketcap>	<eps>	-56	</eps>	</stock>
+<stock>	<name>	Bosch Limited	</name>	<facevalue>	10	</facevalue>	<price>	19902	</price>	<marketcap>	608931483294	</marketcap>	<eps>	482.38	</eps>	</stock>
+<stock>	<name>	BPL Limited	</name>	<facevalue>	10	</facevalue>	<price>	110.45	</price>	<marketcap>	5416460892	</marketcap>	<eps>	12.13	</eps>	</stock>
+<stock>	<name>	Brigade Enterprises Limited	</name>	<facevalue>	10	</facevalue>	<price>	314.9	</price>	<marketcap>	42822515823	</marketcap>	<eps>	14.59	</eps>	</stock>
+<stock>	<name>	Britannia Industries Limited	</name>	<facevalue>	2	</facevalue>	<price>	4735	</price>	<marketcap>	568829347790	</marketcap>	<eps>	75.67	</eps>	</stock>
+<stock>	<name>	Brooks Laboratories Limited	</name>	<facevalue>	10	</facevalue>	<price>	110.9	</price>	<marketcap>	1794260440	</marketcap>	<eps>	-5.78	</eps>	</stock>
+<stock>	<name>	BS Limited	</name>	<facevalue>	1	</facevalue>	<price>	1.8	</price>	<marketcap>	795030479	</marketcap>	<eps>	1.72	</eps>	</stock>
+<stock>	<name>	BSE Limited	</name>	<facevalue>	2	</facevalue>	<price>	938.5	</price>	<marketcap>	50678531688	</marketcap>	<eps>	31.45	</eps>	</stock>
+<stock>	<name>	BSL Limited	</name>	<facevalue>	10	</facevalue>	<price>	122.35	</price>	<marketcap>	1256004097	</marketcap>	<eps>	3.52	</eps>	</stock>
+<stock>	<name>	Cadila Healthcare Limited	</name>	<facevalue>	1	</facevalue>	<price>	444	</price>	<marketcap>	454797699936	</marketcap>	<eps>	13.2	</eps>	</stock>
+<stock>	<name>	Cambridge Technology Enterprises Limited	</name>	<facevalue>	10	</facevalue>	<price>	94	</price>	<marketcap>	1845315692	</marketcap>	<eps>	7.95	</eps>	</stock>
+<stock>	<name>	Camlin Fine Sciences Limited	</name>	<facevalue>	1	</facevalue>	<price>	134.35	</price>	<marketcap>	15729777578	</marketcap>	<eps>	-2.99	</eps>	</stock>
+<stock>	<name>	Can Fin Homes Limited	</name>	<facevalue>	2	</facevalue>	<price>	485.3	</price>	<marketcap>	64620957502	</marketcap>	<eps>	20.79	</eps>	</stock>
+<stock>	<name>	Canara Bank	</name>	<facevalue>	10	</facevalue>	<price>	356	</price>	<marketcap>	213044190016	</marketcap>	<eps>	32.36	</eps>	</stock>
+<stock>	<name>	Cantabil Retail India Limited	</name>	<facevalue>	10	</facevalue>	<price>	123.25	</price>	<marketcap>	2019063259	</marketcap>	<eps>	2.97	</eps>	</stock>
+<stock>	<name>	Capacit’e Infraprojects Limited	</name>	<facevalue>	10	</facevalue>	<price>	395.55	</price>	<marketcap>	26751578480	</marketcap>	<eps>	12	</eps>	</stock>
+<stock>	<name>	Capital First Limited	</name>	<facevalue>	10	</facevalue>	<price>	835.5	</price>	<marketcap>	82469860587	</marketcap>	<eps>	27.23	</eps>	</stock>
+<stock>	<name>	Capital Trust Limited	</name>	<facevalue>	10	</facevalue>	<price>	519.9	</price>	<marketcap>	8398104184	</marketcap>	<eps>	6.48	</eps>	</stock>
+<stock>	<name>	Caplin Point Laboratories Limited	</name>	<facevalue>	2	</facevalue>	<price>	658	</price>	<marketcap>	49831997502	</marketcap>	<eps>	17.05	</eps>	</stock>
+</Stocks>

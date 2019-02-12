@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Cursed Timer ULiL';
+    src: url('CursedTimerULiL.woff2') format('woff2'),
+        url('CursedTimerULiL.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+

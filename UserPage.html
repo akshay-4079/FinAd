@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<head>
+        <script src="https://www.gstatic.com/firebasejs/5.8.2/firebase.js"></script>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+        <link rel='stylesheet' type='text/css' href="./UserPage.css">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.23.0/moment.js"></script>
+        <script src="./date.format.js"></script>
+        <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+</head>
+<body>
+  <div id='UserDetails' class='container-fluid' style="color:white">
+                <div class="navbar" style="background-color:#05d85d;height:50px;width: 100%">
+                                <h1 style="margin-left: auto;margin-right:auto;margin-bottom:auto;color:black">Financial Advisor </h1>
+                                <button type="button" id='logout'>Logout</button>
+                           </div>
+                <form class="frm">
+                        <div style="float:right">
+                                        <input type="date" id="date">
+
+                                        <button type="button" id='datebut'>Date</button>
+                                        </div>
+                                <div class='form-group'>
+                                                <label for='Income'>Monthly Income</label>
+<input type='number'id='income' style="margin-left:13.3%;position: static" required>
+</div>
+
+                        <div class='form-group'>
+                                <label for='Expenses'>Expenses</label>
+                                <input type='number' id='expenses' style="margin-left:16.8%;position: static" required>
+                        </div>
+                        <div class='form-group'>
+                                        <label for='Risk'>Risk</label>
+                                        <input type='number' min="1" max="3" id='risk' style="margin-left:16.8%;position: static" onkeydown="return false;" required>    
+                        <br>
+                </div>
+                        
+</form>
+
+
+<button type="button"  id='fund' >Mutual Funds</button>
+<div id='funds'></div>
+<button type="button" id='stock' >Current Stock</button>
+<div id='stocks2'></div>
+<button type="buton"  id='update'>Update</button>
+<div id='chartContainer' style="height:40%;width: 80vw;margin-right: auto;margin-left: auto"></div>
+<br><br>
+    <script src='./app.js'></script>
+    <script src='./fund.js'></script>
+    <script src="./Calculation.js"></script>
+</body>

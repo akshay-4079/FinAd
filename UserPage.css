@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'Cursed Timer ULiL';
+    src: url('CursedTimerULiL.woff2') format('woff2'),
+        url('CursedTimerULiL.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+#UserDetails{
+background-image: url(https://www.wns.com/Portals/0/Images/Podcast/DesktopImages/746/18/Latest-trends-in-Finance-and-Accounting-outsourcing_HD.jpg);
+background-repeat: no-repeat;
+height: 100vh;
+background-position: center;
+background-attachment:fixed;
+opacity: 0.99;
+}
+marquee
+{
+    font-family: 'Cursed Timer ULiL';
+    color:rgb(9, 207, 9);
+    background-color: black;
+    height: 3%;
+}
